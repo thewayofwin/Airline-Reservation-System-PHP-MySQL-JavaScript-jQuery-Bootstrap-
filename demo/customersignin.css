@@ -1,0 +1,15 @@
+#signin {
+	background-color: #3366cc;
+	width: 800px;
+	color: #fff;
+	height: 450px;
+}
+#signin a {
+	color: #33ff00;
+}
+#main {
+	
+	width: 700px;
+	padding-left: 50px;
+	padding-right: 50px;
+}

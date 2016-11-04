@@ -1,0 +1,42 @@
+.jumbotron {
+  background-color: #0066cc; 
+  color: #ffffff;
+}
+/* Add a dark blue background color with a little bit see-through */ 
+.navbar {
+  margin-bottom: 0;
+  background-color: #0066cc;
+  border: 0;
+  font-size: 18px !important;
+  letter-spacing: 2px;
+  opacity: 0.9;
+}
+/* Add light blue color to all navbar links */
+.navbar li a, .navbar .navbar-brand {
+  color: #00ccff !important;
+}
+/* On hover, the links will turn white */
+.navbar-nav li a:hover, .navbar-nav li.active a {
+  color: #0000ff !important;
+  background-color: #fff !important;
+}
+
+.navbar-default .navbar-toggle {
+  border-color: transparent;
+  color: #fff !important;
+}
+/* Add a dark background color to the footer */
+footer {
+    background-color: #0066cc;
+    color: #fff;
+    padding: 32px;
+  font-size: 18px;
+  
+}
+
+footer .glyphicon {
+  font-size: 20px;
+  margin-bottom: 20px;
+  color: #00ccff;
+  opacity: 0.9;
+}

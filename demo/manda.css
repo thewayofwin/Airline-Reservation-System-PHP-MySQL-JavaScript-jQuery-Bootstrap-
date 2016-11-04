@@ -1,0 +1,16 @@
+.error {
+	display: none;
+	color: red;
+}
+
+.error_show {
+	color: red;
+}
+
+input.invalid {
+	border: 2px solid red;
+}
+
+input.valid {
+	border: 2px solid green;
+}
